@@ -11,3 +11,4 @@
 - [私房书柜](https://cloud.tencent.com/edu/learning/learn-100005-1244/3142)
 - [小游戏|Video](https://ke.qq.com/course/413245?_bid=167&_wv=1&taid=3516422869634621)
 - [点爆教程](https://www.jianshu.com/p/b99f73eb972c)
+- [迷你微博](https://juejin.im/post/5d37c090f265da1b8c19cbbf#heading-5)
